@@ -11,25 +11,6 @@
 // 1 -> 20 хоорондох тэгш тоонуудыг хэвлэнэ үү .
 // for example : 2, 4, 6, ... , 20
 
-// medium
-// 4. Change every second letter of a given string to an ‘Z’. Assume there are no space.
-// Өгөгдсөн string-н 2дох үсэг болгоныг 'Z' үсгээр солин бичнэ үү . Өгөгдсөн string дундаа зайгүй гэж үзнэ .
-// input : helloworld
-// for example : hZlZoZoZlZ
-
-// 5.Console a square of stars (*) .
-// (*) Од ашиглан дөрвөлжинг хэвлэнэ үү .
-// for example :
-// *****
-// *****
-// *****
-// *****
-
-// 6.Sum of digits of given number .
-// Өгөгдсөн тооны цифрүүдийн нийлбэрийг олно уу.
-// input : 7894560
-// for example : 39
-
 // 7.Calculate given number to power .
 // Өгөгдсөн тоог тухайн зэрэгт дэвшүүлнэ үү .
 // input : number = 6  degree=10
@@ -52,10 +33,6 @@
 // 1 - 45 хүртэлх тоонуудын давталт гүйлгэж 3д хуваагдаж байвал “Fizz” , 5д хуваагдаж байвал “Buzz” , 3 болон 5д хуваагдаж байвал “FizzBuzz” гэж хэвлэнэ үү .
 // for example : number = 6 // Fizz , number = 8 // empty , number = 15 // FizzBuzz
 
-// 12.Find the largest overlap of digits in the numbers from 123 to 200 .
-// 123 - 200 хүртэлх тоонуудын цифр хамгийн их давхацсаныг олно уу .
-// for example : 0 = 9 times , 2 = 15 times , 3 = 18 times
-
 // 13.Iterate through all numbers from 1 to 5 and from 20 to 16 . Add the corresponding value .
 // 1-5 , 20-16 гэсэн тоонуудаар давталт гүйлгэж харгалзах утгатай нь нэмнэ үү .
 // 1 , 2 , 3 , 4 , 5
@@ -67,20 +44,3 @@
 // for example :
 //      5 * 5 * 5 * 5 * 5 = 3125 // it is less than 10000
 //      8 * 8 * 8 * 8 * 8 = 32768 // it is greater than 10000
-
-// hard
-// 15.N тоо өгөхөд NxN хэмжээтэй шатрын хөлөг буцаах .
-// Гаралт:
-// _#_
-// #_#
-// _#_
-
-// 16.Console a Pyramid of Stars (*) .
-// (*) Од ашиглан пирамидыг хэвлэнэ үү .
-// for example :
-//    *
-//   ***
-//  *****
-// *******
-
-// 17.Фибоначчийн тоон дараалал  a1 = a2 = 1 ба a(n+2)=a(n+1)+ an  гэж тодорхойлогддог.  Тус дарааллын 20 дох гишүүнийг 5-д ол.
