@@ -15,3 +15,4 @@ if (player1 === player2) {
     console.log("player2 wins");
   }
 }
+  
